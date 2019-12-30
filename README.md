@@ -4,7 +4,7 @@ Bulk Edit on reactjs
 Cloning and Running the Application in local
 Clone the project into local
 
-Install all the npm packages. Go into the Clent and server folder do npm install on both client and server folder.
+Install all the npm packages. Go into the Client and server folder do npm install on both client and server folder.
 
 npm install
 
